@@ -1,6 +1,7 @@
 Tempeh, lettuce and tomato sandwich
 Joe Alburty
-This sandwitch is similiar to the bacon lettuce and tomato sandwitch with the bacon replaces by tempeh.
+
+This sandwitch recipe is similiar to the bacon, lettuce and tomato sandwich, but with the bacon replaced by tempeh.
 
 Ingredients:
  tempeh
@@ -9,20 +10,20 @@ Ingredients:
  sharp cheddar cheese
  bread
  mayo
- olive oil
+ cooking oil
  Optional:
   salsa
   sprouts
   avacado
 
-1. fry slices of tempeh in oil until light brown.
+1. fry slices of tempeh in oil until light brown
 2. toast bread
-3. stack sandwitch in this order:
+3. stack sandwich in this order, bottom to top:
     slice of bread
     mayo
     salsa
     sprouts
-    tomato
+    tomato slice
     lettuce
     tempeh
     slice of bread
