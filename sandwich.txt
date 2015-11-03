@@ -1,7 +1,7 @@
 Tempeh, lettuce and tomato sandwich
 Joe Alburty
 
-This sandwitch recipe is similiar to the bacon, lettuce and tomato sandwich, but with the bacon replaced by tempeh.
+This sandwich recipe is similiar to the bacon, lettuce and tomato sandwich, but with the bacon replaced by tempeh.
 
 Ingredients:
  tempeh
@@ -22,8 +22,8 @@ Ingredients:
     slice of bread
     mayo
     salsa
-    sprouts
     tomato slice
+    sprouts
     lettuce
     tempeh
     slice of bread
